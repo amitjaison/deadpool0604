@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amit (@deadpool0604)
+- 👋 Hi, I’m Amit 
 - 👀 I’m interested in coding and ethical hacking techniques
 - 🌱 I’m currently a btech student 
 
